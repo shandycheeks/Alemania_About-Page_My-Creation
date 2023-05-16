@@ -2,7 +2,7 @@
 
 Good day!  I created this program in PHP to create the About Page. The following are the procedure to open this program.
 
-1.First download the zip file/ download winrar.
+1. First download the zip file/ download winrar.
 
 2. Download XAMPP.
 
