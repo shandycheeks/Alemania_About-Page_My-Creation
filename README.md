@@ -10,4 +10,4 @@ Good day!  I created this program in PHP to create the About Page. The following
 
 4. Copy and paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
-5.Run the script http://localhost/Alemania_About-Page_My-Creation-master-branch/about.php
+5. Run the script http://localhost/Alemania_About-Page_My-Creation-master-branch/about.php
