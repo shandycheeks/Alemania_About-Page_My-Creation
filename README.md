@@ -4,7 +4,7 @@ Good day!  I created this program in PHP to create the About Page. The following
 
 1. First download the zip file/ download winrar.
 
-2. Download XAMPP.
+2. Download XAMPP. Then start Apache and MySql in XAMPP Control Panel.
 
 3. Extract the file.
 
